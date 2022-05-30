@@ -26,5 +26,5 @@ Documentation under construction...
 
 ## Contributing
 
-- [Code of Conduct](#)
+- [Code of Conduct](../.github/CODE_OF_CONDUCT.md)
 - [Contributing Guidelines](#)
