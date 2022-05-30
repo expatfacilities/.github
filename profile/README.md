@@ -17,6 +17,7 @@
 ## Expat Facilities
 
 Facilitate your expatriation, we take care of everything.
+
 Go on an adventure and benefit from a complete accompaniment and a personalized student mobility.
 
 ## Documentation
