@@ -8,6 +8,7 @@
 <p align="center">Make your expatriation easier.</p>
 
 <p align="center">
+  <a href="https://expatfacilities.co/services"><strong>Services</strong></a> ·
   <a href="https://expatfacilities.co/blog"><strong>Blog</strong></a> ·
   <a href="https://expatfacilities.co/about"><strong>About</strong></a> ·
   <a href="https://expatfacilities.co/support"><strong>Support</strong></a>
