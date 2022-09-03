@@ -21,10 +21,6 @@ Facilitate your expatriation, we take care of everything.
 
 Go on an adventure and benefit from a complete accompaniment and a personalized student mobility.
 
-## Documentation
-
-Documentation under construction...
-
 ## Contributing
 
 - [Code of Conduct](https://github.com/expatfacilities/.github/blob/master/.github/CODE_OF_CONDUCT.md)
